@@ -19,11 +19,12 @@
 * Me gustaría grabar las sesiones de conexión remota.
 
 **Tareas:** ✔👨‍💻
-1. Inicio:
+*1. Inicio:*
    * Primer commit
    * Ingreso de clases
    * Crear el Readme como manual de usuario
    * Definir la estructura general del sistema
+*2.Desarrollo:*
    * Implementar el backend que maneja las conexiones.
    * Implementar el sistema de autenticación e implementación:
         1.1 Diseño de la arquitectura del sistema.
