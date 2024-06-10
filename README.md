@@ -52,7 +52,7 @@ Principales marcos/bibliotecas utilizados para iniciar su proyecto.
 * **Express:** ![Express](https://expressjs.org/)
 * **Socket.io:** ![Socket.io](https://socket.io/)
   
-
+<img src="https://camo.githubusercontent.com/11561ed7d7e5735041de1effd78226dfc545474e6f468482f91223957fe7234e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6578742e6a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6e657874646f746a73266c6f676f436f6c6f723d7768697465" alt="Next" data-canonical-src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" style="max-width: 100%;">
 
 <!-- GETTING STARTED -->
 ## Getting Started 🕵️‍♀️✔
@@ -64,7 +64,7 @@ Elementos necesarios para utilizar el software y cómo instalarlos.
   ```
 
 
-### Installation 
+### Installation 👨‍💻✔
 
 _¿Cómo instalar y configurar su aplicación._
 
@@ -85,20 +85,20 @@ _¿Cómo instalar y configurar su aplicación._
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Con FiveConnect
+## Con FiveConnect ✔✨
 * Trabajar desde cualquier lugar: Accede a tu ordenador de trabajo desde cualquier lugar con acceso a internet, manteniendo tu productividad al día.
 * Colaborar en tiempo real: Comparte tu pantalla y trabaja en proyectos con compañeros o clientes en tiempo real, sin importar la distancia.
 * Brindar soporte técnico: Asiste a clientes o empleados de forma remota, solucionando problemas informáticos de forma rápida y eficaz.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Characteristics
+## Characteristics ✨✔👨‍💻
 * Trabajar desde cualquier lugar con acceso a internet.
 * Compartir tu pantalla y trabajar en proyectos con otros en tiempo real.
 * Conexiones rápidas y seguras con cifrado de extremo a extremo.
 * Interfaz intuitiva y sencilla, incluso para usuarios sin experiencia técnica.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Benefits
+## Benefits ✨✔👨‍💻
 * Facilidad de uso.
 * Facilidad de instalación.
 * Permite trabajar desde cualquier lugar y colaborar de forma eficiente.
@@ -108,7 +108,7 @@ No necesitas ser un experto en informática para disfrutar de una experiencia de
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Use cases
+## Use cases ✨✔👨‍💻
 * Ayudar a clientes o empleados con problemas informáticos de forma remota.
 * Acceder a tu ordenador de trabajo desde cualquier lugar para trabajar o acceder a archivos.
 * Compartir tu pantalla y trabajar en proyectos con compañeros o clientes en tiempo real.
@@ -116,11 +116,11 @@ No necesitas ser un experto en informática para disfrutar de una experiencia de
 
 
 <!-- CONTACT -->
-## Contact
+## Contact ✨✔👨‍💻
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Conclusion
+## Conclusion ✨✔👨‍💻
 FiveConnect se presenta como una herramienta de acceso remoto completa y sencilla de utilizar, capaz de adaptarse a un sinfín de necesidades y situaciones.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
