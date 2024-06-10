@@ -1,7 +1,7 @@
 
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- ![logo](https://github.com/abm9287/pruebaredmi/assets/49075053/e8559dca-650c-4320-b87c-65b46e56099d)
+
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
 </p>
