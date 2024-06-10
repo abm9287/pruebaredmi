@@ -52,7 +52,7 @@ Principales marcos/bibliotecas utilizados para iniciar su proyecto.
 * **Express:** ![Express](https://expressjs.org/)
 * **Socket.io:** ![Socket.io](https://socket.io/)
   
-<img src="https://camo.githubusercontent.com/11561ed7d7e5735041de1effd78226dfc545474e6f468482f91223957fe7234e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6578742e6a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6e657874646f746a73266c6f676f436f6c6f723d7768697465" alt="Next" data-canonical-src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" style="max-width: 100%;">
+<a href="https://nextjs.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/11561ed7d7e5735041de1effd78226dfc545474e6f468482f91223957fe7234e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6578742e6a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6e657874646f746a73266c6f676f436f6c6f723d7768697465" alt="Next" data-canonical-src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" style="max-width: 100%;"></a>
 
 <!-- GETTING STARTED -->
 ## Getting Started 🕵️‍♀️✔
