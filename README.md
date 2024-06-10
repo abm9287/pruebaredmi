@@ -1,3 +1,5 @@
+![image](https://github.com/abm9287/pruebaredmi/assets/49075053/b5b1bdc7-45f3-41da-9c24-23be969dd643)
+
 <a name="readme-top"></a>
 
 
@@ -47,7 +49,7 @@ Principales marcos/bibliotecas utilizados para iniciar su proyecto.
 * **Express:** ![Express](https://expressjs.org/)
 * **Socket.io:** ![Socket.io](https://socket.io/)
 
-* [Flutter](https://flutter.dev/) 
+* [Flutter](https://flutter.dev/)
 * [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
 * [HTML](https://developer.mozilla.org/es/docs/Web/HTML)
 * [Bootstrap](https://getbootstrap.com/)
@@ -56,16 +58,16 @@ Principales marcos/bibliotecas utilizados para iniciar su proyecto.
 
 
 <!-- GETTING STARTED -->
-## Getting Started 
+## Getting Started 🕵️‍♀️✔
 Elementos necesarios para utilizar el software y cómo instalarlos.
 
-## Prerequisites
+## Prerequisites 🕵️‍♀️✔
 * npm
   ```
   ```
 
 
-### Installation
+### Installation 
 
 _¿Cómo instalar y configurar su aplicación._
 
