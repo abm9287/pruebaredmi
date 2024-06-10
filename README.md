@@ -48,8 +48,7 @@ Principales marcos/bibliotecas utilizados para iniciar su proyecto.
 * **Flutter:** ![Flutter](https://flutter.dev/) 
 * **JavaScript:** ![JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
 * **HTML:** ![HTML](https://developer.mozilla.org/es/docs/Web/HTML)
-* **Bootstrap:**
-* <img src="https://camo.githubusercontent.com/c402bd25609922ab7160b91524aeb125a2e664070816aeb6dd66af9c41f70087/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" alt="Bootstrap" data-canonical-src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" style="max-width: 100%;"> 
+* **Bootstrap:** <img src="https://camo.githubusercontent.com/c402bd25609922ab7160b91524aeb125a2e664070816aeb6dd66af9c41f70087/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" alt="Bootstrap" data-canonical-src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" style="max-width: 100%;"> 
 * **Express:** ![Express](https://expressjs.org/)
 * **Socket.io:** ![Socket.io](https://socket.io/)
 * 
