@@ -18,7 +18,7 @@
 * Quiero ver la pantalla del dispositivo remoto en tiempo real.
 * Me gustaría grabar las sesiones de conexión remota.
 
-**Tareas:**✔👨‍💻
+**Tareas:** ✔👨‍💻
 1. Inicio:
    * Primer commit
    * Ingreso de clases
@@ -41,7 +41,7 @@
    * Agregar campos de busqueda y filtros
    * Documentación y Despliegue
 
-**Estimación del esfuerzo:**✔👨‍💻
+**Estimación del esfuerzo:** ✔👨‍💻
 
 * Implementar el sistema de autenticación: 2 días
 * Crear la interfaz de usuario para la creación de proyectos: 1 día
