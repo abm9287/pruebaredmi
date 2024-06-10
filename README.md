@@ -24,13 +24,9 @@
     <a href="https://github.com/Roger963?tab=projects">
       <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/anuraghazra/github-readme-stats/badge" />
     </a>
-    <br />
     
-  </p>
     
-    <br />
-
-  </p>
+ 
 
 
 
