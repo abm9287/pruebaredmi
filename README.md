@@ -1,4 +1,7 @@
-![logo](https://github.com/abm9287/pruebaredmi/assets/49075053/e8559dca-650c-4320-b87c-65b46e56099d) 
+<div align="center">
+    ![logo](https://github.com/abm9287/pruebaredmi/assets/49075053/e8559dca-650c-4320-b87c-65b46e56099d)
+</div>
+ 
 
 <div align="center">
 
