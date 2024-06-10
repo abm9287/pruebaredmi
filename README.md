@@ -49,7 +49,7 @@ Principales marcos/bibliotecas utilizados para iniciar su proyecto.
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Getting Started 
 Elementos necesarios para utilizar el software y cómo instalarlos.
 
 ## Prerequisites
