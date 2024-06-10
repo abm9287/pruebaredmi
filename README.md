@@ -51,7 +51,10 @@ Principales marcos/bibliotecas utilizados para iniciar su proyecto.
 * **Bootstrap:** [Bootstrap](https://getbootstrap.com/)
 * **Express:** [Express](https://expressjs.org/)
 * **Socket.io:** [Socket.io](https://socket.io/)
-  
+
+  <li>
+    ![html](https://github.com/abm9287/pruebaredmi/assets/49075053/a00ad659-e967-4218-9dc8-561ea29966a4)
+  </li>
 
 
 <!-- GETTING STARTED -->
