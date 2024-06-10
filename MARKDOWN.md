@@ -1,7 +1,9 @@
 
 ***Markdown***
 
-![Software](https://cdn.pixabay.com/photo/2015/09/09/19/56/office-932926_960_720.jpg)
+
+![office-932926_960_720](https://github.com/abm9287/pruebaredmi/assets/49075053/ebd3713e-a0f1-4f1e-9261-60ca9042f667)
+
 
 ## Backlog 
 
