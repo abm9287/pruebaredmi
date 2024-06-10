@@ -47,6 +47,13 @@ Principales marcos/bibliotecas utilizados para iniciar su proyecto.
 * **Express:** ![Express](https://expressjs.org/)
 * **Socket.io:** ![Socket.io](https://socket.io/)
 
+* [Flutter](https://flutter.dev/) 
+* [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+* [HTML](https://developer.mozilla.org/es/docs/Web/HTML)
+* [Bootstrap](https://getbootstrap.com/)
+* [Express](https://expressjs.org/)
+* [Socket.io](https://socket.io/)
+
 
 <!-- GETTING STARTED -->
 ## Getting Started 
