@@ -1,8 +1,8 @@
 
 ***Markdown***
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.pixabay.com/photo/2015/09/09/19/56/office-932926_960_720.jpg">
-  <img alt="Software" src="[https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://cdn.pixabay.com/photo/2015/09/09/19/56/office-932926_960_720.jpg)">
+  
+![Software](https://cdn.pixabay.com/photo/2015/09/09/19/56/office-932926_960_720.jpg)
 </picture>
 
 ## Backlog 
