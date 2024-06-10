@@ -1,6 +1,6 @@
 
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="[https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg](https://cdn.icon-icons.com/icons2/2406/PNG/512/github_git_icon_145985.png)" align="center" alt="git" />
 
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
