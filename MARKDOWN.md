@@ -1,9 +1,7 @@
 
 ***Markdown***
-<picture>
-  
+
 ![Software](https://cdn.pixabay.com/photo/2015/09/09/19/56/office-932926_960_720.jpg)
-</picture>
 
 ## Backlog 
 
