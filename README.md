@@ -52,7 +52,8 @@ Principales marcos/bibliotecas utilizados para iniciar su proyecto.
 * **Express:** [Express](https://expressjs.org/)
 * **Socket.io:** [Socket.io](https://socket.io/)
 
-![html-5](https://github.com/abm9287/pruebaredmi/assets/49075053/025ca0f5-bf6b-4aec-9b45-e533ff1be73b)  
+![logooos](https://github.com/abm9287/pruebaredmi/assets/49075053/fdc49364-28c6-479c-a7ea-5d29547dfd74)
+
 
 
 <!-- GETTING STARTED -->
