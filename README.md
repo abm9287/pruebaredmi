@@ -40,12 +40,12 @@ FiveConnect es un software de acceso remoto que te permite controlar un ordenado
 ### Built With
 Principales marcos/bibliotecas utilizados para iniciar su proyecto. 
 Principales marcos/bibliotecas utilizados para iniciar su proyecto.
-* **Flutter:** [Flutter](https://flutter.dev/)
-* **JavaScript:** [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
-* **HTML:** [HTML](https://developer.mozilla.org/es/docs/Web/HTML)
-* **Bootstrap:** [Bootstrap](https://getbootstrap.com/)
-* **Express:** [Express](https://expressjs.org/)
-* **Socket.io:** [Socket.io](https://socket.io/)
+* **Flutter:** ![Flutter](https://flutter.dev/) 
+* **JavaScript:** ![JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+* **HTML:** ![HTML](https://developer.mozilla.org/es/docs/Web/HTML)
+* **Bootstrap:** ![Bootstrap](https://getbootstrap.com/)
+* **Express:** ![Express](https://expressjs.org/)
+* **Socket.io:** ![Socket.io](https://socket.io/)
 
 
 <!-- GETTING STARTED -->
