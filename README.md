@@ -45,13 +45,12 @@ FiveConnect es un software de acceso remoto que te permite controlar un ordenado
 ### Built With
 Principales marcos/bibliotecas utilizados para iniciar su proyecto. 
 Principales marcos/bibliotecas utilizados para iniciar su proyecto.
-* **Flutter:** ![Flutter](https://flutter.dev/) 
-* **JavaScript:** ![JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
-* **HTML:** ![HTML](https://developer.mozilla.org/es/docs/Web/HTML)
-* <a href="https://getbootstrap.com" rel="nofollow"><img src="https://camo.githubusercontent.com/c402bd25609922ab7160b91524aeb125a2e664070816aeb6dd66af9c41f70087/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" alt="HTML" data-canonical-src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fes%2Fsearch%3Fq%3Dhtml&psig=AOvVaw38Dvx-vtkYI-AH-WCcHD-m&ust=1718069264957000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjzmJnxz4YDFQAAAAAdAAAAABAJ" style="max-width: 100%;"></a>
-* <a href="https://getbootstrap.com" rel="nofollow"><img src="https://camo.githubusercontent.com/c402bd25609922ab7160b91524aeb125a2e664070816aeb6dd66af9c41f70087/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" alt="Bootstrap" data-canonical-src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" style="max-width: 100%;"></a>
-* **Express:** ![Express](https://expressjs.org/)
-* **Socket.io:** ![Socket.io](https://socket.io/)
+* **Flutter:** [Flutter](https://flutter.dev/)
+* **JavaScript:** [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+* **HTML:** [HTML](https://developer.mozilla.org/es/docs/Web/HTML)
+* **Bootstrap:** [Bootstrap](https://getbootstrap.com/)
+* **Express:** [Express](https://expressjs.org/)
+* **Socket.io:** [Socket.io](https://socket.io/)
   
 
 
