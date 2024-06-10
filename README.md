@@ -52,6 +52,10 @@ Principales marcos/bibliotecas utilizados para iniciar su proyecto.
 * **Express:** [Express](https://expressjs.org/)
 * **Socket.io:** [Socket.io](https://socket.io/)
 
+<a href="https://flutter.dev/">
+  <img align="center" alt="flutter" | src="https://flutter.dev/">
+</a>
+
 ![logooos](https://github.com/abm9287/pruebaredmi/assets/49075053/fdc49364-28c6-479c-a7ea-5d29547dfd74)
 
 
