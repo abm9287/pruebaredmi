@@ -1,4 +1,4 @@
-![conexion-de-red](https://github.com/abm9287/pruebaredmi/assets/49075053/d25d4ed6-21eb-43d5-a0db-90adac04abac)
+![logo](https://github.com/abm9287/pruebaredmi/assets/49075053/e8559dca-650c-4320-b87c-65b46e56099d) 
 
 
 <a name="readme-top"></a>
@@ -116,7 +116,7 @@ No necesitas ser un experto en informática para disfrutar de una experiencia de
 * Compartir tu pantalla y trabajar en proyectos con compañeros o clientes en tiempo real.
 * <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-![logo](https://github.com/abm9287/pruebaredmi/assets/49075053/e8559dca-650c-4320-b87c-65b46e56099d) 
+
 <!-- CONTACT -->
 ## Contact ✨✔👨‍💻
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
