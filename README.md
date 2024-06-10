@@ -1,5 +1,4 @@
-![logo](https://github.com/abm9287/pruebaredmi/assets/49075053/e8559dca-650c-4320-b87c-65b46e56099d) 
-
+![descarga](https://github.com/abm9287/pruebaredmi/assets/49075053/b7f91975-38b8-4b72-bd8b-56cce8ed7fac)
 
 <a name="readme-top"></a>
 
