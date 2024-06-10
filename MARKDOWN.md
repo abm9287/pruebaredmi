@@ -71,5 +71,3 @@
 * Establecer un plan de proyecto claro y detallado
 * Realizar pruebas unitarias
 
-* > [!NOTE]
-> Useful information that users should know, even when skimming content.
