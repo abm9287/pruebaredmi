@@ -1,4 +1,4 @@
-![image](https://github.com/abm9287/pruebaredmi/assets/49075053/b5b1bdc7-45f3-41da-9c24-23be969dd643)
+![logo](https://github.com/abm9287/pruebaredmi/assets/49075053/fdaefa7f-a96f-46aa-8b2f-48af545fe6b1)
 
 <a name="readme-top"></a>
 
